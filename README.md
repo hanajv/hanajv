@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hello World 🌎👋
 
-<!--
-**hanajv/hanajv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My first repository on GitHub 👩‍💻
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/p5TDWmUYF0Vzhp7Gpl/giphy.gif" width="400"/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
