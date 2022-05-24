@@ -23,10 +23,10 @@
 
 
 ### About Me: 
-- 🙋🏻‍♀️ I'm British / Japanese 
+- 🙋🏻‍♀️ I'm British / Japanese based in 📍London
 - 🌱 I’m currently learning HTML + CSS + JS with <a href=https://www.shecodes.io/>SheCodes</a> (Week 1💪)
-- 🤔 I’m looking for help with everything
-- 💬 Ask me about nothing
+- 🤔 I’m looking for help with everything 
+- 💬 Ask me about nothing 😂
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hanajv&theme=omni&show_icons=true&count_private=true)
 
